@@ -7,7 +7,7 @@
 <img src="https://www.ottegi.com/assets/icons/logo.png" width="128" height="128" alt="Ottegi Logo" />
 
 ## My Projects
-- [Sequenced (ADHD Management App in App Store and Play Store)](https://github.com/DoctorNovus/sequenced)
+- [Sequenced (ADHD Management App in App Store and Play Store)](https://www.ottegi.com/sequenced)
  
 ## Below are some small, yet fun things about me
 - Location: **Colorado**
